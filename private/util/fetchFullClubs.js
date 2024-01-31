@@ -1,0 +1,17 @@
+const db = require('../db/controlDb/db')
+const brawlStarsApi = require('./brawlStarsApi')
+
+const func = ()=>{
+  db.control.updatePrivateData()
+  for(let el of db.private.clubsInfo){
+    const tag = el.tag
+    const name = el.name
+    brawlStarsApi.getClub(tag,(data)=>{
+      data.timeFetch = new Date().getTime()
+      db.control.newPublicData(`club_${tag}.json`,JSON.stringify(data,null,2))
+      console.log(`club ${tag} write file`)
+      db.control.updatePublicData()
+    })
+  }
+}
+module.exports = func
