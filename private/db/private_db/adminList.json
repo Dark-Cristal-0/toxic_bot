@@ -1,0 +1,36 @@
+[
+  {
+    "id": 915193713,
+    "name": "Dark Souls",
+    "tgUserName": "@DarkSoul_231120",
+    "rights": {
+      "removeClub": true,
+      "addClub": true,
+      "modifyClub": true,
+      "fetchTime": true,
+      "adminList": true,
+      "removeAdmin": true,
+      "addAdmin": true,
+      "modifyAdmin": true,
+      "fetchNaw": true,
+      "js": true
+    }
+  },
+  {
+    "id": 1121847657,
+    "name": "DarkCristal",
+    "tgUserName": "@DarkCristal_TF",
+    "rights": {
+      "removeClub": true,
+      "addClub": true,
+      "modifyClub": true,
+      "fetchTime": true,
+      "adminList": true,
+      "removeAdmin": true,
+      "addAdmin": true,
+      "modifyAdmin": true,
+      "fetchNaw": true,
+      "js": true
+    }
+  }
+]

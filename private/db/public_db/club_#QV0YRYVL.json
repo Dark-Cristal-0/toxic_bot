@@ -5,16 +5,26 @@
   "type": "open",
   "badgeId": 8000027,
   "requiredTrophies": 35000,
-  "trophies": 1032984,
+  "trophies": 1140562,
   "members": [
     {
       "tag": "#L8LULP9L",
       "name": "🪁FP|TiSap🌿✨",
       "nameColor": "0xffffffff",
       "role": "vicePresident",
-      "trophies": 59401,
+      "trophies": 59536,
       "icon": {
         "id": 28000021
+      }
+    },
+    {
+      "tag": "#Y9VVCYGR2",
+      "name": "[KC]Ivasan🦧",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 50850,
+      "icon": {
+        "id": 28000375
       }
     },
     {
@@ -22,9 +32,19 @@
       "name": "🖤Ҝᵃn҉e̸k̸ᴉˢᵃⁿ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 46866,
+      "trophies": 47112,
       "icon": {
-        "id": 28000014
+        "id": 28000387
+      }
+    },
+    {
+      "tag": "#2PJ2CJ0VU",
+      "name": "💔|Fraer🕊️",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 45249,
+      "icon": {
+        "id": 28000260
       }
     },
     {
@@ -32,7 +52,7 @@
       "name": "Titanium",
       "nameColor": "0xff1ba5f5",
       "role": "senior",
-      "trophies": 43119,
+      "trophies": 43221,
       "icon": {
         "id": 28000380
       }
@@ -42,9 +62,19 @@
       "name": "[L]LoL",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 41730,
+      "trophies": 41875,
       "icon": {
         "id": 28000347
+      }
+    },
+    {
+      "tag": "#PL8Y02G",
+      "name": "TQ|Blaksxy🌺",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 41112,
+      "icon": {
+        "id": 28000150
       }
     },
     {
@@ -52,9 +82,29 @@
       "name": "[HM] =HACMAN=",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 40666,
+      "trophies": 40794,
       "icon": {
         "id": 28000222
+      }
+    },
+    {
+      "tag": "#9CC0C8RVU",
+      "name": "✨•BaNdy•⚔️",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 40248,
+      "icon": {
+        "id": 28000226
+      }
+    },
+    {
+      "tag": "#289JL2VRP",
+      "name": "antry",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 40007,
+      "icon": {
+        "id": 28000374
       }
     },
     {
@@ -65,26 +115,6 @@
       "trophies": 39991,
       "icon": {
         "id": 28000295
-      }
-    },
-    {
-      "tag": "#289JL2VRP",
-      "name": "antry",
-      "nameColor": "0xfff05637",
-      "role": "member",
-      "trophies": 39628,
-      "icon": {
-        "id": 28000051
-      }
-    },
-    {
-      "tag": "#9CC0C8RVU",
-      "name": "✨•BaNdy•⚔️",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 39525,
-      "icon": {
-        "id": 28000170
       }
     },
     {
@@ -102,19 +132,9 @@
       "name": "Jason#",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 38261,
+      "trophies": 38750,
       "icon": {
         "id": 28000132
-      }
-    },
-    {
-      "tag": "#2LRGC22CL",
-      "name": "Чингиз",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 37427,
-      "icon": {
-        "id": 28000207
       }
     },
     {
@@ -122,7 +142,7 @@
       "name": "🌪₮ØɌ₦₳ƉØ🌪",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 37105,
+      "trophies": 38002,
       "icon": {
         "id": 28000242
       }
@@ -132,29 +152,19 @@
       "name": "ZD|Bªņẁĥøpəř",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 36995,
+      "trophies": 37510,
       "icon": {
-        "id": 28000146
+        "id": 28000387
       }
     },
     {
       "tag": "#QCRGLLR2",
       "name": "J♤K$R",
-      "nameColor": "0xffcb5aff",
+      "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 36897,
+      "trophies": 36992,
       "icon": {
         "id": 28000233
-      }
-    },
-    {
-      "tag": "#PJL2RU98G",
-      "name": "Капитан Паника",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 36322,
-      "icon": {
-        "id": 28000294
       }
     },
     {
@@ -162,9 +172,29 @@
       "name": "believe|kill🥀",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 36218,
+      "trophies": 36395,
       "icon": {
         "id": 28000141
+      }
+    },
+    {
+      "tag": "#PJL2RU98G",
+      "name": "Капитан Паника",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 36329,
+      "icon": {
+        "id": 28000294
+      }
+    },
+    {
+      "tag": "#RVC9G9Q8",
+      "name": "#Loud",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 36134,
+      "icon": {
+        "id": 28000207
       }
     },
     {
@@ -172,7 +202,7 @@
       "name": "[LP]Hacker",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 35790,
+      "trophies": 35983,
       "icon": {
         "id": 28000364
       }
@@ -182,29 +212,9 @@
       "name": "владик",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 35314,
+      "trophies": 35441,
       "icon": {
         "id": 28000029
-      }
-    },
-    {
-      "tag": "#9JRYR0LPL",
-      "name": "✨⚡Kyrenay⚡✨",
-      "nameColor": "0xff1ba5f5",
-      "role": "senior",
-      "trophies": 35011,
-      "icon": {
-        "id": 28000262
-      }
-    },
-    {
-      "tag": "#8LQJ9JJJP",
-      "name": "kkelsomack|✨",
-      "nameColor": "0xff1ba5f5",
-      "role": "member",
-      "trophies": 34854,
-      "icon": {
-        "id": 28000167
       }
     },
     {
@@ -212,9 +222,29 @@
       "name": "худ рич ортём",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 34827,
+      "trophies": 35308,
       "icon": {
         "id": 28000000
+      }
+    },
+    {
+      "tag": "#8LQJ9JJJP",
+      "name": "kkelsomack|✨",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 35064,
+      "icon": {
+        "id": 28000167
+      }
+    },
+    {
+      "tag": "#9JRYR0LPL",
+      "name": "✨⚡Kyrenay⚡✨",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 34987,
+      "icon": {
+        "id": 28000262
       }
     },
     {
@@ -222,19 +252,9 @@
       "name": "⚡Waͥynͣeͫᶜᴿᴬᶻᵞ",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 34202,
+      "trophies": 34223,
       "icon": {
         "id": 28000175
-      }
-    },
-    {
-      "tag": "#2LVPLQ8YJ",
-      "name": "denislamoff~",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 33824,
-      "icon": {
-        "id": 28000002
       }
     },
     {
@@ -242,7 +262,7 @@
       "name": "Mukola8371MKL",
       "nameColor": "0xffa8e132",
       "role": "senior",
-      "trophies": 33808,
+      "trophies": 33888,
       "icon": {
         "id": 28000132
       }
@@ -252,7 +272,7 @@
       "name": "Marko",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 32385,
+      "trophies": 32397,
       "icon": {
         "id": 28000335
       }
@@ -262,7 +282,7 @@
       "name": "UA|E𝚖p𝚎r𝚘r🔮",
       "nameColor": "0xffa8e132",
       "role": "vicePresident",
-      "trophies": 28931,
+      "trophies": 29075,
       "icon": {
         "id": 28000151
       }
@@ -272,7 +292,7 @@
       "name": "🌔lazzi 个",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 28301,
+      "trophies": 28503,
       "icon": {
         "id": 28000347
       }
@@ -288,5 +308,5 @@
       }
     }
   ],
-  "timeFetch": 1706652920010
+  "timeFetch": 1706829647733
 }

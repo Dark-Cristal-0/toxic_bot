@@ -7,64 +7,9 @@ const db = {
   private:{
     clubsInfo:[
       {
-        "name": "Toxic Cloud",
-        "tag": "#QQVJ9CY8",
-        "tgUserNameHead": "@Arsurim"
-      },
-      {
-        "name": "Toxic Liberty",
-        "tag": "#29J8PVVVV",
-        "tgUserNameHead": "@Arsurim"
-      },
-      {
-        "name": "Toxic Disorder",
-        "tag": "#2CV0002RP",
-        "tgUserNameHead": "@Skcvkwsqkqvcawd"
-      },
-      {
-        "name": "Toxic Obscurity",
-        "tag": "#QV0YRYVL",
-        "tgUserNameHead": "@allinol_bs"
-      },
-      {
-        "name": "Toxic Paradise",
-        "tag": "#2PG2UP0J0",
-        "tgUserNameHead": "@nurytin"
-      },
-      {
-        "name": "Toxic Souls",
-        "tag": "#QCU298JU",
-        "tgUserNameHead": "@TyMaSaK"
-      },
-      {
-        "name": "Toxic Swift",
-        "tag": "#VR8CGCVP",
-        "tgUserNameHead": "@fulminaant"
-      },
-      {
-        "name": "Toxic Legion",
-        "tag": "#2CUG9G9Y9",
-        "tgUserNameHead": "@BazMa_SH"
-      },
-      {
-        "name": "Toxic Rain",
-        "tag": "#2CYUU99JP",
-        "tgUserNameHead": "@Roweouu"
-      },
-      {
         "name": "Toxic Family",
         "tag": "#29P08J09J",
         "tgUserNameHead": "@DarkSoul_231120"
-      },
-      {
-        "name": "Toxic Royalty",
-        "tag": "#2CL902GJ0",
-        "tgUserNameHead": "@Sai_Ken"
-      },
-      {
-        "name": "Toxic Eclipse",
-        "tag": "#2U29V282Q",
-        "tgUserNameHead": "@SpMaestro"
       }
     ],
     timeToNewFetch:{
@@ -72,6 +17,32 @@ const db = {
       "minutes":30,
       "secondes":0
     },
+    adminList:[
+      {
+        "id":1121847657,
+        "name":"DarkCristal",
+        "tgUserName":"@DarkCristal_TF",
+        "rights":{
+          "modifyFetchTime":true,
+          "modifyClubList":true,
+          "modifyAdminList":true,
+          "fetchNaw":true,
+          "js":true
+        }
+      },
+      {
+        "id":915193713,
+        "name":"DarkSoul",
+        "tgUserName":"@DarkSoul_231120",
+        "rights":{
+          "modifyFetchTime":true,
+          "modifyClubList":true,
+          "modifyAdminList":true,
+          "fetchNaw":true,
+          "js":true
+        }
+      }
+    ]
   },
   public:{
 
@@ -96,9 +67,12 @@ const db = {
      * @param {function({object})} callback 
      */
     modifyPrivateData:(path_,callback)=>{
-      const data = JSON.parse(fs.readFileSync(path.join(__dirname,"../private_db",path_)))
-      callback(data)
-      fs.writeFileSync(path.join(__dirname,"../private_db",path_),JSON.stringify(data))
+      try{
+        const data = JSON.parse(fs.readFileSync(path.join(__dirname,"../private_db",path_)))
+        fs.writeFileSync(path.join(__dirname,"../private_db",path_),JSON.stringify(callback(data),null,2))
+      }catch(err){
+
+      }
     },
     /**
      * 
@@ -106,7 +80,11 @@ const db = {
      * @param {string} newData 
      */
     newPrivateData:(path_,newData)=>{
-      fs.writeFileSync(path.join(__dirname,"../private_db",path_),newData)
+      try{
+        fs.writeFileSync(path.join(__dirname,"../private_db",path_),newData)
+      }catch(err){
+
+      }
     },
     updatePublicData:()=>{
       const filelist = fs.readdirSync(path.join(__dirname,"../public_db"))
@@ -130,9 +108,13 @@ const db = {
      * @param {function({object})} callback 
      */
     modifyPublicData:(path_,callback)=>{
-      const data = JSON.parse(fs.readFileSync(path.join(__dirname,"../public_db",path_)))
-      callback(data)
-      fs.writeFileSync(path.join(__dirname,"../public_db",path_),JSON.stringify(data))
+      try{
+        const data = JSON.parse(fs.readFileSync(path.join(__dirname,"../public_db",path_)))
+        
+        fs.writeFileSync(path.join(__dirname,"../public_db",path_),JSON.stringify(callback(data),null,2))
+      }catch(err){
+
+      }
     },
     /**
      * 
@@ -140,7 +122,11 @@ const db = {
      * @param {string} newData 
      */
     newPublicData:(path_,newData)=>{
-      fs.writeFileSync(path.join(__dirname,"../public_db",path_),newData)
+      try{
+        fs.writeFileSync(path.join(__dirname,"../public_db",path_),newData)
+      }catch(err){
+
+      }
     },
   }
 }

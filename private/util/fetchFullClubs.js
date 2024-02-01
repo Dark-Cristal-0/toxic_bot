@@ -9,7 +9,6 @@ const func = ()=>{
     brawlStarsApi.getClub(tag,(data)=>{
       data.timeFetch = new Date().getTime()
       db.control.newPublicData(`club_${tag}.json`,JSON.stringify(data,null,2))
-      console.log(`club ${tag} write file`)
       db.control.updatePublicData()
     })
   }
