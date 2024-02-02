@@ -5,7 +5,7 @@
   "type": "open",
   "badgeId": 8000055,
   "requiredTrophies": 25000,
-  "trophies": 1027097,
+  "trophies": 1061673,
   "members": [
     {
       "tag": "#29RLPUCV9",
@@ -18,21 +18,11 @@
       }
     },
     {
-      "tag": "#2RJVPLG02",
-      "name": "ДОБРЫЙ_ПЕЛЬМЕНЬ",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 49882,
-      "icon": {
-        "id": 28000182
-      }
-    },
-    {
       "tag": "#90QJ8Q2JG",
       "name": "$Bogro$",
       "nameColor": "0xffa2e3fe",
       "role": "senior",
-      "trophies": 45661,
+      "trophies": 46075,
       "icon": {
         "id": 28000278
       }
@@ -42,7 +32,7 @@
       "name": "Tribe|Kiper",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 45010,
+      "trophies": 45016,
       "icon": {
         "id": 28000132
       }
@@ -52,7 +42,7 @@
       "name": "X|Smoki💨",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 44417,
+      "trophies": 44599,
       "icon": {
         "id": 28000002
       }
@@ -62,7 +52,7 @@
       "name": "ɪᴛ's Kʀᴏɴᴏs💔?",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 42460,
+      "trophies": 42525,
       "icon": {
         "id": 28000380
       }
@@ -72,7 +62,7 @@
       "name": "ナスティユシャX1X🥱",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 40915,
+      "trophies": 41160,
       "icon": {
         "id": 28000196
       }
@@ -92,9 +82,19 @@
       "name": "(лега)ворон",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 39592,
+      "trophies": 39830,
       "icon": {
         "id": 28000179
+      }
+    },
+    {
+      "tag": "#8R89YYQ89",
+      "name": "назар бро",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 39249,
+      "icon": {
+        "id": 28000285
       }
     },
     {
@@ -108,21 +108,11 @@
       }
     },
     {
-      "tag": "#8R89YYQ89",
-      "name": "назар бро",
-      "nameColor": "0xffa2e3fe",
-      "role": "member",
-      "trophies": 38788,
-      "icon": {
-        "id": 28000285
-      }
-    },
-    {
       "tag": "#28982PYVV",
       "name": "TT: bs.genesis",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 38167,
+      "trophies": 38157,
       "icon": {
         "id": 28000301
       }
@@ -132,9 +122,19 @@
       "name": "Windy_Cry",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 38007,
+      "trophies": 38063,
       "icon": {
         "id": 28000384
+      }
+    },
+    {
+      "tag": "#UG2P9CL9",
+      "name": "Bᴇᴇᴍʙʏ🦋",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 37765,
+      "icon": {
+        "id": 28000200
       }
     },
     {
@@ -142,7 +142,7 @@
       "name": "kerl1kk🪱",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 37537,
+      "trophies": 37545,
       "icon": {
         "id": 28000312
       }
@@ -158,21 +158,11 @@
       }
     },
     {
-      "tag": "#UG2P9CL9",
-      "name": "Bᴇᴇᴍʙʏ🦋",
-      "nameColor": "0xffff8afb",
-      "role": "member",
-      "trophies": 37123,
-      "icon": {
-        "id": 28000200
-      }
-    },
-    {
       "tag": "#8Q2VRG9YR",
       "name": "QLS | SaGa❄️",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 33567,
+      "trophies": 33748,
       "icon": {
         "id": 28000187
       }
@@ -182,19 +172,9 @@
       "name": "_TITAN ZeVz_",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 33433,
+      "trophies": 33454,
       "icon": {
         "id": 28000279
-      }
-    },
-    {
-      "tag": "#89U2QLJPP",
-      "name": "Боец",
-      "nameColor": "0xff1ba5f5",
-      "role": "member",
-      "trophies": 33122,
-      "icon": {
-        "id": 28000168
       }
     },
     {
@@ -212,7 +192,7 @@
       "name": "asd",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 31545,
+      "trophies": 31512,
       "icon": {
         "id": 28000384
       }
@@ -222,9 +202,19 @@
       "name": "ナスティユシャpudge🥱",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 31218,
+      "trophies": 31217,
       "icon": {
         "id": 28000175
+      }
+    },
+    {
+      "tag": "#89892889",
+      "name": "[LP]Sonic",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 31036,
+      "icon": {
+        "id": 28000229
       }
     },
     {
@@ -238,13 +228,33 @@
       }
     },
     {
+      "tag": "#2RLQ9L98J",
+      "name": "I'm Foxy",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 28735,
+      "icon": {
+        "id": 28000387
+      }
+    },
+    {
       "tag": "#Q2RL2VG",
       "name": "🥀 Ｓｐｉｎｔｏｗｉｎ 🥀",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 28538,
+      "trophies": 28610,
       "icon": {
         "id": 28000386
+      }
+    },
+    {
+      "tag": "#2JGQJ29Y0",
+      "name": "ˢʰᵃᵈᵒʷalone🥀💔",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 28385,
+      "icon": {
+        "id": 28000206
       }
     },
     {
@@ -252,7 +262,7 @@
       "name": "King Kong",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 27850,
+      "trophies": 27893,
       "icon": {
         "id": 28000332
       }
@@ -262,9 +272,19 @@
       "name": "KUBA",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 27577,
+      "trophies": 27764,
       "icon": {
         "id": 28000163
+      }
+    },
+    {
+      "tag": "#88LPJ9JCP",
+      "name": "ваня",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 26536,
+      "icon": {
+        "id": 28000272
       }
     },
     {
@@ -282,11 +302,11 @@
       "name": "Владислав",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 25215,
+      "trophies": 25326,
       "icon": {
         "id": 28000139
       }
     }
   ],
-  "timeFetch": 1706829647762
+  "timeFetch": 1706890993346
 }

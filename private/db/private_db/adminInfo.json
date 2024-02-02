@@ -1,0 +1,66 @@
+{
+  "help":{
+    "text":"Показує інформацію про команди",
+    "params":"(<comand>)?",
+    "example":"/admin help addClub"
+  },
+  "info":{
+    "text":"Показує інформацію про Адміна",
+    "params":"(<id>)?",
+    "example":"/admin info\n/admin info 0908042"
+  },
+
+
+
+  "addClub":{
+    "text":"Додає клуб до списку",
+    "params":"<tag> <head> <name>",
+    "example":"/admin #2CUG9G9Y9 kiritoake Toxic Legion"
+  },
+  "removeClub":{
+    "text":"Видаляє клуб з списку",
+    "params":"<tag>",
+    "example":"/admin removeClub #2CUG9G9Y9"
+  },
+  "modifyClub":{
+    "text":"Змінює інформацію про клуб",
+    "params":"<tag> <name> ?= ?<newData>",
+    "example":"/admin modifyClub #2CUG9G9Y9 head = kiritoake\n/admin modifyClub #2CUG9G9Y9 name = Toxic Legion\n/admin modifyClub #2CUG9G9Y9 tag = #2CUG9G9Y9"
+  },
+
+
+
+  "addAdmin":{
+    "text":"Додає нового адміна, для використання необхідно відповісти на повідомлення",
+    "params":"<rights>? <rights>? <rights>? ...",
+    "example":"/admin addAdmin fetchNaw addClub"
+  },
+  "removeAdmin":{
+    "text":"Видаляє людину з адмінів, для використання необхідно відповісти на повідомлення, або вказати айді",
+    "params":"(<id>)?",
+    "example":"/admin removeAdmin\n /admin removeAdmin 678739"
+  },
+  "modifyAdmin":{
+    "text":"Змінює права або дані адміна, для використання потрібно відповісти на повідомлення",
+    "params":"<name> ?= ?<rights>",
+    "example":"/admin modifyAdmin rights = fetchNaw\n/admin modifyAdmin name = Test name"
+  },
+  "adminList":{
+    "text":"Показує список адмінів і їх права",
+    "params":"(group)?",
+    "example":"/admin adminList\n/admin adminList group"
+  },
+
+
+
+  "fetchNaw":{
+    "text":"Запрошує дані з сервера прямо зараз",
+    "params":"Не містить додаткових параметрів",
+    "example":"/admin fetchNaw"
+  },
+  "fetchTime":{
+    "text":"Встановлює новий час запиту до сервера, а також оновлює дані прямо зараз",
+    "params":"(<hours>h)? (<minutes>m)? (<seconds>s)?",
+    "example":"/admin fetchTime 1h 30m 5s\n/admin fetchTime 15m"
+  }
+}

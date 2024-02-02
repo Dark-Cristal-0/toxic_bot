@@ -4,25 +4,15 @@
   "description": "<cB22222>Toxic Imperium</c> 🐍TG: @ToxicImp 🐍<cB22222>#NoSpin</c> 🐍TGClub: @kiritoake🐍",
   "type": "open",
   "badgeId": 8000023,
-  "requiredTrophies": 33000,
-  "trophies": 1134867,
+  "requiredTrophies": 34000,
+  "trophies": 985958,
   "members": [
-    {
-      "tag": "#UPG8QLPC",
-      "name": "pon4ik",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 52127,
-      "icon": {
-        "id": 28000364
-      }
-    },
     {
       "tag": "#9YPVGPQG8",
       "name": "🔥FireLord🔥",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 48071,
+      "trophies": 49181,
       "icon": {
         "id": 28000331
       }
@@ -32,19 +22,9 @@
       "name": "Vorona🥶",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 46085,
+      "trophies": 46694,
       "icon": {
         "id": 28000196
-      }
-    },
-    {
-      "tag": "#20Y0YQUPG",
-      "name": "three quarters",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 43189,
-      "icon": {
-        "id": 28000129
       }
     },
     {
@@ -52,9 +32,19 @@
       "name": "=)",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 43057,
+      "trophies": 43224,
       "icon": {
-        "id": 28000151
+        "id": 28000374
+      }
+    },
+    {
+      "tag": "#20Y0YQUPG",
+      "name": "three quarters",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 43193,
+      "icon": {
+        "id": 28000129
       }
     },
     {
@@ -68,6 +58,16 @@
       }
     },
     {
+      "tag": "#8QPCLGQQG",
+      "name": "Rastishka 💜",
+      "nameColor": "0xffffffff",
+      "role": "president",
+      "trophies": 39699,
+      "icon": {
+        "id": 28000013
+      }
+    },
+    {
       "tag": "#9QYUC2PL0",
       "name": "Nilsen",
       "nameColor": "0xffff9727",
@@ -78,21 +78,11 @@
       }
     },
     {
-      "tag": "#8QPCLGQQG",
-      "name": "Rastishka 💜",
-      "nameColor": "0xffffffff",
-      "role": "president",
-      "trophies": 39157,
-      "icon": {
-        "id": 28000013
-      }
-    },
-    {
       "tag": "#PGLL9CLJU",
       "name": "Ɽ₲₦ł₦J₳",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 38417,
+      "trophies": 38599,
       "icon": {
         "id": 28000156
       }
@@ -102,7 +92,7 @@
       "name": "🇺🇦kiwaqq",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 37602,
+      "trophies": 37616,
       "icon": {
         "id": 28000151
       }
@@ -112,7 +102,7 @@
       "name": "Zabkа|⛩️",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 37220,
+      "trophies": 37256,
       "icon": {
         "id": 28000020
       }
@@ -122,7 +112,7 @@
       "name": "⚔️|Vlad|⚔️",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 36974,
+      "trophies": 36988,
       "icon": {
         "id": 28000164
       }
@@ -132,7 +122,7 @@
       "name": "(БЛЭT)ĐĀrKÑêt",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 36939,
+      "trophies": 36940,
       "icon": {
         "id": 28000337
       }
@@ -142,7 +132,7 @@
       "name": "QLS|MoonLight⚡",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 36784,
+      "trophies": 36913,
       "icon": {
         "id": 28000023
       }
@@ -152,7 +142,7 @@
       "name": "Alexander",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 36635,
+      "trophies": 36681,
       "icon": {
         "id": 28000140
       }
@@ -172,7 +162,7 @@
       "name": "Я хочу Леона",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 36182,
+      "trophies": 36358,
       "icon": {
         "id": 28000175
       }
@@ -182,19 +172,9 @@
       "name": "PayliX",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 36180,
+      "trophies": 36185,
       "icon": {
         "id": 28000155
-      }
-    },
-    {
-      "tag": "#9LQ9P2VV8",
-      "name": "ZIPY",
-      "nameColor": "0xffa8e132",
-      "role": "member",
-      "trophies": 36014,
-      "icon": {
-        "id": 28000203
       }
     },
     {
@@ -202,9 +182,19 @@
       "name": "Макс",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 36011,
+      "trophies": 36097,
       "icon": {
         "id": 28000164
+      }
+    },
+    {
+      "tag": "#9LQ9P2VV8",
+      "name": "ZIPY",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 35996,
+      "icon": {
+        "id": 28000203
       }
     },
     {
@@ -222,7 +212,7 @@
       "name": "ᴘᴏɪɴᴛ",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 35384,
+      "trophies": 35737,
       "icon": {
         "id": 28000177
       }
@@ -232,7 +222,7 @@
       "name": "Spike⚽⚽",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 35378,
+      "trophies": 35400,
       "icon": {
         "id": 28000132
       }
@@ -242,7 +232,7 @@
       "name": "LaymXx",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 34368,
+      "trophies": 34442,
       "icon": {
         "id": 28000129
       }
@@ -252,29 +242,9 @@
       "name": "MaRmOkBoK",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 34140,
+      "trophies": 34261,
       "icon": {
         "id": 28000095
-      }
-    },
-    {
-      "tag": "#90YU8QC2",
-      "name": "★кислый★",
-      "nameColor": "0xffa2e3fe",
-      "role": "member",
-      "trophies": 34075,
-      "icon": {
-        "id": 28000132
-      }
-    },
-    {
-      "tag": "#8C0CRJP2L",
-      "name": "Мститель",
-      "nameColor": "0xfff9c908",
-      "role": "member",
-      "trophies": 34007,
-      "icon": {
-        "id": 28000387
       }
     },
     {
@@ -282,7 +252,7 @@
       "name": "🛡️Dark|King🦋",
       "nameColor": "0xffa2e3fe",
       "role": "senior",
-      "trophies": 33397,
+      "trophies": 33405,
       "icon": {
         "id": 28000146
       }
@@ -292,21 +262,11 @@
       "name": "🔱🌀|Raywizz~",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 33070,
+      "trophies": 33166,
       "icon": {
         "id": 28000294
       }
-    },
-    {
-      "tag": "#GJRCVGJ9",
-      "name": "Brawl stars",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 32477,
-      "icon": {
-        "id": 28000274
-      }
     }
   ],
-  "timeFetch": 1706829647804
+  "timeFetch": 1706890993596
 }

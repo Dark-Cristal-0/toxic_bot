@@ -5,14 +5,14 @@
   "type": "inviteOnly",
   "badgeId": 8000024,
   "requiredTrophies": 35000,
-  "trophies": 1291651,
+  "trophies": 1249467,
   "members": [
     {
       "tag": "#QPVLVPLU",
       "name": "Brawl Power",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 53712,
+      "trophies": 53844,
       "icon": {
         "id": 28000378
       }
@@ -22,7 +22,7 @@
       "name": "brawl stars",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 52966,
+      "trophies": 52976,
       "icon": {
         "id": 28000228
       }
@@ -42,7 +42,7 @@
       "name": "[Au] AuRuM",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 50643,
+      "trophies": 50771,
       "icon": {
         "id": 28000335
       }
@@ -62,7 +62,7 @@
       "name": "EvgeША",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 48662,
+      "trophies": 48731,
       "icon": {
         "id": 28000242
       }
@@ -72,7 +72,7 @@
       "name": "Leon",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 47618,
+      "trophies": 47601,
       "icon": {
         "id": 28000347
       }
@@ -82,7 +82,7 @@
       "name": "🇺🇦|GÖπÁĸ 15",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 47355,
+      "trophies": 47497,
       "icon": {
         "id": 28000090
       }
@@ -92,19 +92,9 @@
       "name": "pro100misha",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 45942,
+      "trophies": 46014,
       "icon": {
         "id": 28000187
-      }
-    },
-    {
-      "tag": "#9V0V20LJQ",
-      "name": "VeritasLocus",
-      "nameColor": "0xffa8e132",
-      "role": "member",
-      "trophies": 45579,
-      "icon": {
-        "id": 28000364
       }
     },
     {
@@ -112,7 +102,7 @@
       "name": "(ua) Костя",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 45212,
+      "trophies": 45324,
       "icon": {
         "id": 28000180
       }
@@ -122,7 +112,7 @@
       "name": "путь сундуков",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 44643,
+      "trophies": 44661,
       "icon": {
         "id": 28000221
       }
@@ -132,7 +122,7 @@
       "name": "🦋ᵀᴱᴹᴾᴱˢᵀ🦋",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 44401,
+      "trophies": 44465,
       "icon": {
         "id": 28000023
       }
@@ -142,7 +132,7 @@
       "name": "QLS|Fujisaki ☔️",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 43971,
+      "trophies": 43979,
       "icon": {
         "id": 28000244
       }
@@ -152,7 +142,7 @@
       "name": "[FL]Pavel",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 43585,
+      "trophies": 43611,
       "icon": {
         "id": 28000222
       }
@@ -162,7 +152,7 @@
       "name": "🇺🇦Соня",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 43503,
+      "trophies": 43495,
       "icon": {
         "id": 28000364
       }
@@ -172,9 +162,19 @@
       "name": "☠Hitman47☠",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 43318,
+      "trophies": 43354,
       "icon": {
         "id": 28000182
+      }
+    },
+    {
+      "tag": "#980UGRVC9",
+      "name": "𝓚𝓲𝓷𝓰☭",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 43210,
+      "icon": {
+        "id": 28000037
       }
     },
     {
@@ -182,7 +182,7 @@
       "name": "☔️ッToP4iK™️",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 43077,
+      "trophies": 43083,
       "icon": {
         "id": 28000330
       }
@@ -192,7 +192,7 @@
       "name": "=Miki=",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 42929,
+      "trophies": 43035,
       "icon": {
         "id": 28000221
       }
@@ -202,19 +202,9 @@
       "name": "Brawler",
       "nameColor": "0xffffce89",
       "role": "member",
-      "trophies": 42568,
+      "trophies": 42698,
       "icon": {
         "id": 28000260
-      }
-    },
-    {
-      "tag": "#980UGRVC9",
-      "name": "𝓚𝓲𝓷𝓰☭",
-      "nameColor": "0xfff9c908",
-      "role": "member",
-      "trophies": 42432,
-      "icon": {
-        "id": 28000037
       }
     },
     {
@@ -222,9 +212,19 @@
       "name": "☆HUNTER☆",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 42049,
+      "trophies": 42542,
       "icon": {
         "id": 28000380
+      }
+    },
+    {
+      "tag": "#2G2VJ09R9",
+      "name": "деня",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 42401,
+      "icon": {
+        "id": 28000252
       }
     },
     {
@@ -232,7 +232,7 @@
       "name": "🥷1ndaster😶‍🌫",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 42004,
+      "trophies": 42183,
       "icon": {
         "id": 28000280
       }
@@ -242,19 +242,9 @@
       "name": "🎴LINK™",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 41926,
+      "trophies": 42072,
       "icon": {
-        "id": 28000135
-      }
-    },
-    {
-      "tag": "#2G2VJ09R9",
-      "name": "деня",
-      "nameColor": "0xffa8e132",
-      "role": "member",
-      "trophies": 41863,
-      "icon": {
-        "id": 28000252
+        "id": 28000278
       }
     },
     {
@@ -262,7 +252,7 @@
       "name": "Anichka",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 40600,
+      "trophies": 40573,
       "icon": {
         "id": 28000125
       }
@@ -272,7 +262,7 @@
       "name": "Brawler",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 38357,
+      "trophies": 38440,
       "icon": {
         "id": 28000219
       }
@@ -282,7 +272,7 @@
       "name": "FLASH",
       "nameColor": "0xfff05637",
       "role": "president",
-      "trophies": 35604,
+      "trophies": 35690,
       "icon": {
         "id": 28000361
       }
@@ -292,11 +282,11 @@
       "name": "⁅ЖМЫХ⁆₳Ⱡł₲Ѧ₮Ø℟ヅ",
       "nameColor": "0xff4ddba2",
       "role": "vicePresident",
-      "trophies": 35306,
+      "trophies": 35391,
       "icon": {
         "id": 28000210
       }
     }
   ],
-  "timeFetch": 1706829647784
+  "timeFetch": 1706890993491
 }

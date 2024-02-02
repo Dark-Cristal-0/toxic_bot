@@ -5,26 +5,16 @@
   "type": "open",
   "badgeId": 8000027,
   "requiredTrophies": 35000,
-  "trophies": 1140562,
+  "trophies": 1061421,
   "members": [
     {
       "tag": "#L8LULP9L",
       "name": "🪁FP|TiSap🌿✨",
       "nameColor": "0xffffffff",
       "role": "vicePresident",
-      "trophies": 59536,
+      "trophies": 59594,
       "icon": {
         "id": 28000021
-      }
-    },
-    {
-      "tag": "#Y9VVCYGR2",
-      "name": "[KC]Ivasan🦧",
-      "nameColor": "0xffa8e132",
-      "role": "member",
-      "trophies": 50850,
-      "icon": {
-        "id": 28000375
       }
     },
     {
@@ -32,7 +22,7 @@
       "name": "🖤Ҝᵃn҉e̸k̸ᴉˢᵃⁿ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 47112,
+      "trophies": 47215,
       "icon": {
         "id": 28000387
       }
@@ -42,7 +32,7 @@
       "name": "💔|Fraer🕊️",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 45249,
+      "trophies": 45430,
       "icon": {
         "id": 28000260
       }
@@ -62,7 +52,7 @@
       "name": "[L]LoL",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 41875,
+      "trophies": 41929,
       "icon": {
         "id": 28000347
       }
@@ -72,9 +62,9 @@
       "name": "TQ|Blaksxy🌺",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 41112,
+      "trophies": 41191,
       "icon": {
-        "id": 28000150
+        "id": 28000140
       }
     },
     {
@@ -82,19 +72,9 @@
       "name": "[HM] =HACMAN=",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 40794,
+      "trophies": 40813,
       "icon": {
         "id": 28000222
-      }
-    },
-    {
-      "tag": "#9CC0C8RVU",
-      "name": "✨•BaNdy•⚔️",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 40248,
-      "icon": {
-        "id": 28000226
       }
     },
     {
@@ -102,9 +82,19 @@
       "name": "antry",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 40007,
+      "trophies": 40397,
       "icon": {
         "id": 28000374
+      }
+    },
+    {
+      "tag": "#9CC0C8RVU",
+      "name": "✨•BaNdy•⚔️",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 40271,
+      "icon": {
+        "id": 28000226
       }
     },
     {
@@ -112,7 +102,7 @@
       "name": "NEKINZ",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 39991,
+      "trophies": 40263,
       "icon": {
         "id": 28000295
       }
@@ -132,7 +122,7 @@
       "name": "Jason#",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 38750,
+      "trophies": 38897,
       "icon": {
         "id": 28000132
       }
@@ -142,7 +132,7 @@
       "name": "🌪₮ØɌ₦₳ƉØ🌪",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 38002,
+      "trophies": 38014,
       "icon": {
         "id": 28000242
       }
@@ -152,7 +142,7 @@
       "name": "ZD|Bªņẁĥøpəř",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 37510,
+      "trophies": 37699,
       "icon": {
         "id": 28000387
       }
@@ -162,9 +152,19 @@
       "name": "J♤K$R",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 36992,
+      "trophies": 37153,
       "icon": {
         "id": 28000233
+      }
+    },
+    {
+      "tag": "#RVC9G9Q8",
+      "name": "#Loud",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 36631,
+      "icon": {
+        "id": 28000207
       }
     },
     {
@@ -172,7 +172,7 @@
       "name": "believe|kill🥀",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 36395,
+      "trophies": 36487,
       "icon": {
         "id": 28000141
       }
@@ -182,19 +182,19 @@
       "name": "Капитан Паника",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 36329,
+      "trophies": 36351,
       "icon": {
         "id": 28000294
       }
     },
     {
-      "tag": "#RVC9G9Q8",
-      "name": "#Loud",
-      "nameColor": "0xffff8afb",
+      "tag": "#8J908R898",
+      "name": "Індус риком",
+      "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 36134,
+      "trophies": 36099,
       "icon": {
-        "id": 28000207
+        "id": 28000168
       }
     },
     {
@@ -202,7 +202,7 @@
       "name": "[LP]Hacker",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 35983,
+      "trophies": 36021,
       "icon": {
         "id": 28000364
       }
@@ -212,19 +212,9 @@
       "name": "владик",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 35441,
+      "trophies": 35532,
       "icon": {
         "id": 28000029
-      }
-    },
-    {
-      "tag": "#9LV92VCYL",
-      "name": "худ рич ортём",
-      "nameColor": "0xffffffff",
-      "role": "senior",
-      "trophies": 35308,
-      "icon": {
-        "id": 28000000
       }
     },
     {
@@ -232,7 +222,7 @@
       "name": "kkelsomack|✨",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 35064,
+      "trophies": 35303,
       "icon": {
         "id": 28000167
       }
@@ -241,8 +231,8 @@
       "tag": "#9JRYR0LPL",
       "name": "✨⚡Kyrenay⚡✨",
       "nameColor": "0xff1ba5f5",
-      "role": "senior",
-      "trophies": 34987,
+      "role": "member",
+      "trophies": 35086,
       "icon": {
         "id": 28000262
       }
@@ -252,7 +242,7 @@
       "name": "⚡Waͥynͣeͫᶜᴿᴬᶻᵞ",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 34223,
+      "trophies": 34215,
       "icon": {
         "id": 28000175
       }
@@ -262,19 +252,9 @@
       "name": "Mukola8371MKL",
       "nameColor": "0xffa8e132",
       "role": "senior",
-      "trophies": 33888,
+      "trophies": 33912,
       "icon": {
         "id": 28000132
-      }
-    },
-    {
-      "tag": "#2UR8PQPUR",
-      "name": "Marko",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 32397,
-      "icon": {
-        "id": 28000335
       }
     },
     {
@@ -282,7 +262,7 @@
       "name": "UA|E𝚖p𝚎r𝚘r🔮",
       "nameColor": "0xffa8e132",
       "role": "vicePresident",
-      "trophies": 29075,
+      "trophies": 29496,
       "icon": {
         "id": 28000151
       }
@@ -292,7 +272,7 @@
       "name": "🌔lazzi 个",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 28503,
+      "trophies": 28615,
       "icon": {
         "id": 28000347
       }
@@ -308,5 +288,5 @@
       }
     }
   ],
-  "timeFetch": 1706829647733
+  "timeFetch": 1706890993590
 }
