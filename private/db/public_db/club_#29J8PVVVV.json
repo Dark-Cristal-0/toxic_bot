@@ -5,7 +5,7 @@
   "type": "inviteOnly",
   "badgeId": 8000057,
   "requiredTrophies": 30000,
-  "trophies": 940823,
+  "trophies": 941284,
   "members": [
     {
       "tag": "#8QUYPRYJJ",
@@ -82,7 +82,7 @@
       "name": "LeGeNdA :)",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 35799,
+      "trophies": 35912,
       "icon": {
         "id": 28000139
       }
@@ -92,7 +92,7 @@
       "name": "xaku.zxc",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 34386,
+      "trophies": 34431,
       "icon": {
         "id": 28000221
       }
@@ -112,7 +112,7 @@
       "name": "TheMaxx|tt🥀",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 33856,
+      "trophies": 33795,
       "icon": {
         "id": 28000330
       }
@@ -122,7 +122,7 @@
       "name": "🍀Lucky🗿",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 33606,
+      "trophies": 33658,
       "icon": {
         "id": 28000130
       }
@@ -162,7 +162,7 @@
       "name": "НУБ",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 31903,
+      "trophies": 31930,
       "icon": {
         "id": 28000183
       }
@@ -172,7 +172,7 @@
       "name": "♠️VIRUS♠️",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 31296,
+      "trophies": 31417,
       "icon": {
         "id": 28000079
       }
@@ -182,7 +182,7 @@
       "name": "Алишер Кот",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 30569,
+      "trophies": 30584,
       "icon": {
         "id": 28000205
       }
@@ -222,7 +222,7 @@
       "name": "я кибер спорт",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 29510,
+      "trophies": 29575,
       "icon": {
         "id": 28000219
       }
@@ -242,7 +242,7 @@
       "name": "Nyx_0n",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 26356,
+      "trophies": 26349,
       "icon": {
         "id": 28000016
       }
@@ -262,7 +262,7 @@
       "name": "oregmme🖤👿",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 23939,
+      "trophies": 24030,
       "icon": {
         "id": 28000155
       }
@@ -308,5 +308,5 @@
       }
     }
   ],
-  "timeFetch": 1706890993895
+  "timeFetch": 1706891538189
 }

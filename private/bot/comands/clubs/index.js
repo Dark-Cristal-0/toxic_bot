@@ -22,7 +22,7 @@ const func = ()=>{
     await bot.sendMessage(msg.chat.id,`Список Клубов`,listInfoClubs)
   })
 
-  bot.on("callback_query",(msg)=>{
+  bot.on("callback_query",async (msg)=>{
     db.control.updatePrivateData()
     db.control.updatePublicData()
     if(msg.data.includes('club_#')){
@@ -33,8 +33,8 @@ const func = ()=>{
       const objTimeToNewFetch = db.private.timeToNewFetch
       const timeToNewFetch = objTimeToNewFetch.secondes*1000 + objTimeToNewFetch.minutes*60*1000 + objTimeToNewFetch.hourse*60*60*1000
       const text = renderMessage(name,tag,trophies,requiredTrophies,members.length,tgUserNameHead,timeFetch,timeToNewFetch)
-      bot.sendMessage(msg.message.chat.id,text)
-      
+      await bot.sendMessage(msg.message.chat.id,text)
+      return bot.deleteMessage(msg.message.chat.id,msg.message.message_id)
     }
   })
 }

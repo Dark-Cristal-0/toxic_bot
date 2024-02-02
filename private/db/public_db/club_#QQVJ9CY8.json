@@ -5,14 +5,14 @@
   "type": "inviteOnly",
   "badgeId": 8000056,
   "requiredTrophies": 35000,
-  "trophies": 1190509,
+  "trophies": 1190992,
   "members": [
     {
       "tag": "#9RQGU0CJJ",
       "name": "☢Dark Knight☢",
       "nameColor": "0xfff9c908",
       "role": "senior",
-      "trophies": 56918,
+      "trophies": 56968,
       "icon": {
         "id": 28000291
       }
@@ -62,7 +62,7 @@
       "name": "NaVi | Apollo",
       "nameColor": "0xffcb5aff",
       "role": "vicePresident",
-      "trophies": 49393,
+      "trophies": 49439,
       "icon": {
         "id": 28000023
       }
@@ -72,7 +72,7 @@
       "name": "BLR | H1zenyy🌖",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 48826,
+      "trophies": 48860,
       "icon": {
         "id": 28000112
       }
@@ -82,7 +82,7 @@
       "name": "-10 by ewl1x🖤",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 48582,
+      "trophies": 48618,
       "icon": {
         "id": 28000132
       }
@@ -102,7 +102,7 @@
       "name": "YT(ОдИнОкИй)",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 45730,
+      "trophies": 45795,
       "icon": {
         "id": 28000286
       }
@@ -142,7 +142,7 @@
       "name": "⛩️|It's Mendys☔",
       "nameColor": "0xffcb5aff",
       "role": "vicePresident",
-      "trophies": 42147,
+      "trophies": 42228,
       "icon": {
         "id": 28000335
       }
@@ -152,7 +152,7 @@
       "name": "koks",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 40469,
+      "trophies": 40463,
       "icon": {
         "id": 28000222
       }
@@ -162,7 +162,7 @@
       "name": "Night/Roses🌹🥀",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 39612,
+      "trophies": 39589,
       "icon": {
         "id": 28000151
       }
@@ -172,7 +172,7 @@
       "name": "MQ | Mayskiy🥀",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 39011,
+      "trophies": 39028,
       "icon": {
         "id": 28000330
       }
@@ -182,7 +182,7 @@
       "name": "DG|Angels kiler",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 38522,
+      "trophies": 38546,
       "icon": {
         "id": 28000356
       }
@@ -192,7 +192,7 @@
       "name": "ОТМОРОЗИЩЕ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 38335,
+      "trophies": 38382,
       "icon": {
         "id": 28000168
       }
@@ -222,7 +222,7 @@
       "name": "Grackie",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 37692,
+      "trophies": 37714,
       "icon": {
         "id": 28000210
       }
@@ -232,7 +232,7 @@
       "name": "NaVi | Vertus",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 36610,
+      "trophies": 36648,
       "icon": {
         "id": 28000317
       }
@@ -272,7 +272,7 @@
       "name": "I❤️ICE CREAM",
       "nameColor": "0xffffce89",
       "role": "member",
-      "trophies": 29626,
+      "trophies": 29678,
       "icon": {
         "id": 28000374
       }
@@ -298,5 +298,5 @@
       }
     }
   ],
-  "timeFetch": 1706890993580
+  "timeFetch": 1706891537012
 }
