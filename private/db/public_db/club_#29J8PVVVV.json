@@ -1,60 +1,210 @@
 {
   "tag": "#29J8PVVVV",
   "name": "Toxic Liberty",
-  "description": "<c5>Toxic Imperium</c>|От 30к🏆|Прохождение копилки обязательно|Связь через тгк @ToxicImp & @Tox_Paradise",
+  "description": "<c5>Toxic Imperium</c>|Tg:@ToxicImp|<c5>Tg:@ToxLiberty</c>|Spread your wings|",
   "type": "inviteOnly",
   "badgeId": 8000057,
-  "requiredTrophies": 30000,
-  "trophies": 941284,
+  "requiredTrophies": 35000,
+  "trophies": 1307785,
   "members": [
     {
       "tag": "#8QUYPRYJJ",
       "name": "$AuRuM$",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 54647,
+      "icon": {
+        "id": 28000154
+      }
+    },
+    {
+      "tag": "#899PYC8J0",
+      "name": "←--он гей--→",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 51487,
+      "icon": {
+        "id": 28000210
+      }
+    },
+    {
+      "tag": "#8JV0UC8JQ",
+      "name": "Боец",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 50368,
+      "icon": {
+        "id": 28000450
+      }
+    },
+    {
+      "tag": "#YYC08LVLR",
+      "name": "Crock🐊",
+      "nameColor": "0xffffffff",
+      "role": "senior",
+      "trophies": 50069,
+      "icon": {
+        "id": 28000136
+      }
+    },
+    {
+      "tag": "#80CPUR80Q",
+      "name": "GeFol YouTube",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 47922,
+      "icon": {
+        "id": 28000357
+      }
+    },
+    {
+      "tag": "#892RQPJQL",
+      "name": "BEAST",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 47579,
+      "icon": {
+        "id": 28000210
+      }
+    },
+    {
+      "tag": "#VUCCQLCY",
+      "name": "Zagir",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 47188,
+      "icon": {
+        "id": 28000076
+      }
+    },
+    {
+      "tag": "#PQ2PJPP9R",
+      "name": "боб",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 45986,
+      "icon": {
+        "id": 28000000
+      }
+    },
+    {
+      "tag": "#2R8PJVRU0",
+      "name": "Poco",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 45757,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#9UYVPRCPG",
+      "name": "請|Fa$er™",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 44932,
+      "trophies": 45654,
       "icon": {
-        "id": 28000375
+        "id": 28000445
+      }
+    },
+    {
+      "tag": "#9R9RRPYV0",
+      "name": "𝕶𝖎𝖗𝖕𝖎𝖈𝖍",
+      "nameColor": "0xfff05637",
+      "role": "senior",
+      "trophies": 45569,
+      "icon": {
+        "id": 28000429
       }
     },
     {
       "tag": "#20P288ULV",
       "name": "Sydjarmy",
       "nameColor": "0xffffffff",
-      "role": "vicePresident",
-      "trophies": 41607,
+      "role": "president",
+      "trophies": 45318,
       "icon": {
         "id": 28000291
       }
     },
     {
-      "tag": "#2CQQV9PUU",
-      "name": "АНИМЕШНИК",
+      "tag": "#QQQYUCY9",
+      "name": "zxc-smayt",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 44995,
+      "icon": {
+        "id": 28000432
+      }
+    },
+    {
+      "tag": "#CVCJYVRP",
+      "name": "[LP]Ice Wolf",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 44989,
+      "icon": {
+        "id": 28000317
+      }
+    },
+    {
+      "tag": "#208PQUQJR",
+      "name": "DJwert9",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 44926,
+      "icon": {
+        "id": 28000419
+      }
+    },
+    {
+      "tag": "#U9Y2U8UC",
+      "name": "Flovkiyy💔",
+      "nameColor": "0xffffffff",
+      "role": "vicePresident",
+      "trophies": 44556,
+      "icon": {
+        "id": 28000332
+      }
+    },
+    {
+      "tag": "#8LJJ0RY0",
+      "name": "YEYO",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 39782,
+      "trophies": 43749,
       "icon": {
-        "id": 28000273
+        "id": 28000374
       }
     },
     {
-      "tag": "#9JP9J8GPP",
-      "name": "А4",
+      "tag": "#2PL9RJ8C0",
+      "name": "Noob Master69",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 42822,
+      "icon": {
+        "id": 28000469
+      }
+    },
+    {
+      "tag": "#Y9PV2QR9U",
+      "name": "xakuqisk¹¹",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 38278,
+      "trophies": 42042,
       "icon": {
-        "id": 28000386
+        "id": 28000023
       }
     },
     {
-      "tag": "#9YURQCVLU",
-      "name": "СТАЛКЕР",
-      "nameColor": "0xffcb5aff",
+      "tag": "#22CC889YU",
+      "name": "시그마дофамин🤍",
+      "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 37946,
+      "trophies": 42014,
       "icon": {
-        "id": 28000125
+        "id": 28000278
       }
     },
     {
@@ -62,251 +212,101 @@
       "name": "NaVi | Line",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 37541,
+      "trophies": 41978,
       "icon": {
         "id": 28000014
       }
     },
     {
-      "tag": "#YRV9LVQC8",
-      "name": "W1_XxX",
+      "tag": "#8YVVQCPGC",
+      "name": "[LP]Sava461",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 36589,
+      "trophies": 41939,
       "icon": {
-        "id": 28000087
+        "id": 28000478
       }
     },
     {
-      "tag": "#29L8CRJGU",
-      "name": "LeGeNdA :)",
-      "nameColor": "0xffffffff",
+      "tag": "#YCU209VJG",
+      "name": "NaVi | Vertus",
+      "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 35912,
+      "trophies": 41808,
       "icon": {
-        "id": 28000139
+        "id": 28000447
       }
     },
     {
-      "tag": "#Y9PV2QR9U",
-      "name": "xaku.zxc",
-      "nameColor": "0xff1ba5f5",
+      "tag": "#80CQPLRUG",
+      "name": "Mieciu2137",
+      "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 34431,
+      "trophies": 41477,
       "icon": {
-        "id": 28000221
+        "id": 28000156
       }
     },
     {
-      "tag": "#9P8029U82",
-      "name": "Atom",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 34266,
-      "icon": {
-        "id": 28000294
-      }
-    },
-    {
-      "tag": "#928URPG0L",
-      "name": "TheMaxx|tt🥀",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 33795,
-      "icon": {
-        "id": 28000330
-      }
-    },
-    {
-      "tag": "#9GLC9QGC8",
-      "name": "🍀Lucky🗿",
+      "tag": "#8VYLRJ8VU",
+      "name": "𝓑𝖘|𝒗𝒂𝒔𝒌𝒂",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 33658,
+      "trophies": 39918,
       "icon": {
-        "id": 28000130
+        "id": 28000233
       }
     },
     {
-      "tag": "#2PGRYLPGR",
-      "name": "MaKoWiEc997",
+      "tag": "#LYQL9JJ0",
+      "name": "Fm$",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 33068,
+      "trophies": 39850,
       "icon": {
-        "id": 28000382
+        "id": 28000428
       }
     },
     {
-      "tag": "#VLYGQP2G",
-      "name": "⚡Sayrex⚡",
-      "nameColor": "0xfff9c908",
-      "role": "member",
-      "trophies": 32625,
-      "icon": {
-        "id": 28000124
-      }
-    },
-    {
-      "tag": "#8VV22P2UJ",
-      "name": "Мортис",
+      "tag": "#8PYLCGPY",
+      "name": "Brawler",
       "nameColor": "0xfff05637",
-      "role": "member",
-      "trophies": 32499,
-      "icon": {
-        "id": 28000218
-      }
-    },
-    {
-      "tag": "#9P0GQYR2U",
-      "name": "НУБ",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 31930,
-      "icon": {
-        "id": 28000183
-      }
-    },
-    {
-      "tag": "#8P08R09QJ",
-      "name": "♠️VIRUS♠️",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 31417,
-      "icon": {
-        "id": 28000079
-      }
-    },
-    {
-      "tag": "#29PJ8YYY0",
-      "name": "Алишер Кот",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 30584,
-      "icon": {
-        "id": 28000205
-      }
-    },
-    {
-      "tag": "#29CGL9PP9",
-      "name": "Dictynid",
-      "nameColor": "0xffff8afb",
-      "role": "member",
-      "trophies": 30445,
-      "icon": {
-        "id": 28000156
-      }
-    },
-    {
-      "tag": "#8RGCYJRR8",
-      "name": "tapczan_",
-      "nameColor": "0xffa2e3fe",
-      "role": "member",
-      "trophies": 30388,
-      "icon": {
-        "id": 28000175
-      }
-    },
-    {
-      "tag": "#L0YUYG9U",
-      "name": "андрей негроид",
-      "nameColor": "0xfff9c908",
-      "role": "member",
-      "trophies": 30223,
-      "icon": {
-        "id": 28000017
-      }
-    },
-    {
-      "tag": "#8C2V9PGVY",
-      "name": "я кибер спорт",
-      "nameColor": "0xfff9c908",
-      "role": "member",
-      "trophies": 29575,
-      "icon": {
-        "id": 28000219
-      }
-    },
-    {
-      "tag": "#8UJGURRQY",
-      "name": "シ︎Oᴘ☯︎MORTIS☢︎シ",
-      "nameColor": "0xff4ddba2",
       "role": "vicePresident",
-      "trophies": 29457,
+      "trophies": 37627,
       "icon": {
-        "id": 28000380
+        "id": 28000450
       }
     },
     {
-      "tag": "#YULJU2YGC",
-      "name": "Nyx_0n",
-      "nameColor": "0xffa8e132",
-      "role": "member",
-      "trophies": 26349,
-      "icon": {
-        "id": 28000016
-      }
-    },
-    {
-      "tag": "#G2QYP8L99",
-      "name": "QLS|TOPER",
-      "nameColor": "0xffff8afb",
-      "role": "senior",
-      "trophies": 25809,
-      "icon": {
-        "id": 28000263
-      }
-    },
-    {
-      "tag": "#PVCUGRVR",
-      "name": "oregmme🖤👿",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 24030,
-      "icon": {
-        "id": 28000155
-      }
-    },
-    {
-      "tag": "#LG8JVJ8P0",
-      "name": "𝕸𝖆𝖗𝖎𝖐ᵀᴹ",
-      "nameColor": "0xffffffff",
-      "role": "senior",
-      "trophies": 23506,
-      "icon": {
-        "id": 28000304
-      }
-    },
-    {
-      "tag": "#PQ98J2URC",
-      "name": "mayuko🫀夢をあきらめ",
-      "nameColor": "0xffa2e3fe",
-      "role": "member",
-      "trophies": 22069,
-      "icon": {
-        "id": 28000302
-      }
-    },
-    {
-      "tag": "#LC2CJGLVY",
-      "name": "люблю арса👻",
-      "nameColor": "0xffff9727",
-      "role": "president",
-      "trophies": 14453,
-      "icon": {
-        "id": 28000267
-      }
-    },
-    {
-      "tag": "#9QY9GLJ98",
-      "name": "NaVi | Versage",
+      "tag": "#Y9P2QYJ0U",
+      "name": "Nova | Arsurim",
       "nameColor": "0xffcb5aff",
       "role": "vicePresident",
-      "trophies": 14120,
+      "trophies": 37049,
       "icon": {
-        "id": 28000156
+        "id": 28000280
+      }
+    },
+    {
+      "tag": "#PL929JV2C",
+      "name": "⛩️QLS|Mortis⛓️",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 34042,
+      "icon": {
+        "id": 28000255
+      }
+    },
+    {
+      "tag": "#P8J09QVL2",
+      "name": "12|Zeus戦士🌋🌖⚡",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 24460,
+      "icon": {
+        "id": 28000004
       }
     }
   ],
-  "timeFetch": 1706891538189
+  "timeFetch": 1715354646919
 }

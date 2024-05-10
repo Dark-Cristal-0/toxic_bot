@@ -5,7 +5,7 @@ const token = JSON.parse(fs.readFileSync(path.normalize(path.join(__dirname,'../
 
 const brawlStarsApi ={
   get: async (url,callback=()=>{})=>{
-    https.get(`https://api.brawlstars.com/v1/${url}`,{
+    const req = https.get(`https://api.brawlstars.com/v1/${url}`,{
       method:"get",
       headers:{
         accept:"application/json",
@@ -19,10 +19,17 @@ const brawlStarsApi ={
       })
       res.on('end',()=>{
         let data = JSON.parse(_data)
-        callback(data)
+        let error = data.members?false:true;
+        callback(data,error)
+      })
+      res.on("error",(err)=>{
+        console.log(err)
       })
       }
     )
+    req.on("error",(err)=>{
+      console.log(err.message)
+    })
   },
   getClub:async (teg,callback)=>{
     let _teg = teg

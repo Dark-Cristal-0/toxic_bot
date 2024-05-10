@@ -4,8 +4,9 @@ const func = ()=>{
   bot.setMyCommands([
     {command:"/clubs",description:"send list button of clubs"},
     {command:"/allclubs",description:"send rating clubs"},
-    {command:"/start",description:"start bot"}
+    {command:"/start",description:"start bot"},
+    {command:"/rules",description:"Print link rules"}
   ])
 }
-func()
+
 module.exports = func

@@ -2,7 +2,12 @@ const bot = require('./../../botObj/bot')
 const brawlStarsApi = require('./../../../util/brawlStarsApi')
 const db = require('./../../../db/controlDb/db')
 const fetchFullClubs = require('./../../../util/fetchFullClubs')
-//const admin = require('./../../../admin/index')
+const event = require("./../../botObj/botEmmiter")
+
+const addClub = require("./comands/addClub")
+const removeClub = require("./comands/removeClub")
+const modifyClub = require("./comands/modifyClub")
+
 let time = db.private.timeToNewFetch.hourse*1000*60*60 + db.private.timeToNewFetch.minutes*1000*60 + db.private.timeToNewFetch.secondes*1000
 fetchFullClubs()
 let interval = setInterval(()=>{
@@ -23,6 +28,10 @@ const func =()=>{
     if(!admin.id){
       await bot.sendMessage(msg.chat.id,`Your id:${msg.from.id}`)
       return bot.sendMessage(msg.chat.id,"Your not admin")
+    }
+
+    if(elem1 == "test"){
+      event.emit("new_polling_err",{})
     }
 
     if(elem1 == "info" && admin.rights.info){
@@ -75,7 +84,7 @@ const func =()=>{
       return bot.sendMessage(msg.chat.id,"Fetch Naw accept✅")
     }
 
-    if(elem1 == "js"){
+    if(elem1 == "js" && admin.rights.js){
       try{
         if(elem2){
           const print =(text)=>{
@@ -90,106 +99,17 @@ const func =()=>{
     }
 
     if(elem1 == "addClub"&& admin.rights.addClub){
-      try{
-        if(elem2){
-
-          const regex =/(.\w+)\s(.\w+)\s(.*)/
-          const listInfo = regex.exec(elem2)
-
-          if(!listInfo[2].includes("@")){
-            listInfo[2] = "@"+listInfo[2]
-          }
-          if(!listInfo[1].includes("#")){
-            listInfo[1] = "#"+listInfo[1]
-          }
-
-          const info ={
-            name:listInfo[3],
-            tag:listInfo[1],
-            tgUserNameHead:listInfo[2]
-          }
-
-          db.control.modifyPrivateData("clubsInfo.json",(data)=>{
-            data.push(info)
-            return data
-          })
-
-          db.control.updatePrivateData()
-          bot.sendMessage(msg.chat.id,"Info new Club:\n"+JSON.stringify(info,null,2))
-        }
-      }catch(err){
-        console.log(err)
-      }
+      addClub(admin,elem1,elem2)
       return 0
     }
 
     if(elem1 == "removeClub"&& admin.rights.removeClub){
-      if(elem2){
-        const tag = elem2.includes("#")?elem2:"#"+elem2
-        db.control.modifyPrivateData("clubsInfo.json",(data)=>{
-          const element = data.filter(el=>(el.tag == tag))[0]
-          const indexElement = data.indexOf(element);
-          if(indexElement>-1){
-            data.splice(indexElement,1)
-            bot.sendMessage(msg.chat.id,"Club remove🫡")
-            return data
-          }else{
-            bot.sendMessage(msg.chat.id,"This club is not defined🫠")
-            return data
-          }
-        })
-        db.control.updatePrivateData()
-      }
+      removeClub(admin,elem1,elem2)
       return 0
     }
 
     if(elem1 =="modifyClub"&& admin.rights.modifyClub){
-      if(elem2){
-        const reqex=/(.\w+) ?(.\w+) ?= ?(.*)/
-        const listInfo = reqex.exec(elem2)
-        const tag = listInfo[1].includes("#")?listInfo[1]:"#"+listInfo[1]
-        if(listInfo[2]=="name"){
-          db.control.modifyPrivateData("clubsInfo.json",(data)=>{
-            const element = data.filter(el=>(el.tag == tag))[0]
-            const indexElement = data.indexOf(element);
-            if(indexElement>-1){
-              data[indexElement].name =listInfo[3]
-              bot.sendMessage(msg.chat.id,"Club set new name✅")
-              return data
-            }else{
-              bot.sendMessage(msg.chat.id,"This club is not defined🫠")
-              return data
-            }
-          })
-        }else if(listInfo[2]=="tag"){
-          db.control.modifyPrivateData("clubsInfo.json",(data)=>{
-            const element = data.filter(el=>(el.tag == tag))[0]
-            const indexElement = data.indexOf(element);
-            if(indexElement>-1){
-              data[indexElement].tag =listInfo[3]
-              bot.sendMessage(msg.chat.id,"Club set new tag✅")
-              return data
-            }else{
-              bot.sendMessage(msg.chat.id,"This club is not defined🫠")
-              return data
-            }
-          })
-        }else if(listInfo[2]=="head"){
-          db.control.modifyPrivateData("clubsInfo.json",(data)=>{
-            const element = data.filter(el=>(el.tag == tag))[0]
-            const indexElement = data.indexOf(element);
-            if(indexElement>-1){
-              data[indexElement].tgUserNameHead =listInfo[3]
-              bot.sendMessage(msg.chat.id,"Club set new head✅")
-              return data
-            }else{
-              bot.sendMessage(msg.chat.id,"This club is not defined🫠")
-              return data
-            }
-          })
-        }
-        db.control.updatePrivateData()
-      }
+      modifyClub(admin,elem1,elem2)
       return 0
     }
 
@@ -350,6 +270,8 @@ const func =()=>{
       
       return 0
     }
+
+    
 
 
   })

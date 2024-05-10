@@ -1,0 +1,101 @@
+{
+  "tag": "#2R28Y22VR",
+  "name": "Toxic Ice",
+  "type": "open",
+  "badgeId": 8000041,
+  "requiredTrophies": 8000,
+  "trophies": 147140,
+  "members": [
+    {
+      "tag": "#8Q2VRG9YR",
+      "name": "QLS | SaGa❄️",
+      "nameColor": "0xffcb5aff",
+      "role": "president",
+      "trophies": 36452,
+      "icon": {
+        "id": 28000187
+      }
+    },
+    {
+      "tag": "#888URP80G",
+      "name": "⚡BROZSKY⚡",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 33143,
+      "icon": {
+        "id": 28000168
+      }
+    },
+    {
+      "tag": "#8CP9VRL8",
+      "name": "Ailita ily S.❤️",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 33102,
+      "icon": {
+        "id": 28000430
+      }
+    },
+    {
+      "tag": "#2200G0Y9C",
+      "name": "трах тори",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 18602,
+      "icon": {
+        "id": 28000391
+      }
+    },
+    {
+      "tag": "#RY00200R8",
+      "name": "zxcursed",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 7149,
+      "icon": {
+        "id": 28000362
+      }
+    },
+    {
+      "tag": "#98YP89LQ0",
+      "name": "Gam",
+      "nameColor": "0xffffce89",
+      "role": "member",
+      "trophies": 5776,
+      "icon": {
+        "id": 28000003
+      }
+    },
+    {
+      "tag": "#RG8UR2QLR",
+      "name": "некий парень",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 5299,
+      "icon": {
+        "id": 28000297
+      }
+    },
+    {
+      "tag": "#RLVY8LV28",
+      "name": "stockow",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 5169,
+      "icon": {
+        "id": 28000221
+      }
+    },
+    {
+      "tag": "#RRQYPJ29R",
+      "name": "n(地球)ma",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 2448,
+      "icon": {
+        "id": 28000285
+      }
+    }
+  ],
+  "timeFetch": 1710101951908
+}

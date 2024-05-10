@@ -1,0 +1,42 @@
+{
+  "tag": "#2R2Q8J8L8",
+  "name": "Toxic Wizards",
+  "description": "<c00FFFF> Toxic Imperium</c>|Tg:@ToxicImp| <c00FFFF>Tg:@FreezY_ST </c>|GoTop100🇺🇦|",
+  "type": "inviteOnly",
+  "badgeId": 8000041,
+  "requiredTrophies": 20000,
+  "trophies": 100109,
+  "members": [
+    {
+      "tag": "#829G9QPR9",
+      "name": "Лорд",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 42558,
+      "icon": {
+        "id": 28000333
+      }
+    },
+    {
+      "tag": "#9L8RC9L9V",
+      "name": "Brawler",
+      "nameColor": "0xffa2e3fe",
+      "role": "president",
+      "trophies": 41022,
+      "icon": {
+        "id": 28000096
+      }
+    },
+    {
+      "tag": "#99Q2RLYPL",
+      "name": "ната гуль😎",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 16529,
+      "icon": {
+        "id": 28000228
+      }
+    }
+  ],
+  "timeFetch": 1713596154964
+}

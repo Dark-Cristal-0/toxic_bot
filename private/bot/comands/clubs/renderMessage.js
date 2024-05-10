@@ -1,3 +1,4 @@
+const numberFormater = require("./numberFormater")
 /**
  * 
  * @param {string} name 
@@ -41,23 +42,21 @@ const func = (name,tag,trophies,requiredTrophies,membersCout,tgUserNameHead,time
       return text
     }
   }
-  const text =`
-  Name: ${name} 💚
+  let text =`
+-------- <b><i>${name}</i></b> --------
+Trophies: 🏆<i>${numberFormater(trophies)}</i>🏆
 
-    Tag: ${tag}
+Invite: 🏆<i>${requiredTrophies}</i>🏆
+
+Members: ${membersCout}/30👨‍👩‍👧‍👦
+
+Tag: <a>${tag}</a>
       
-    Trophies: 🏆${trophies}🏆
-      
-    Invite: 🏆${requiredTrophies}🏆
-      
-    Members: ${membersCout}/30👨‍👩‍👧‍👦
-      
-    Tg head: 🔗https://t.me/${tgUserNameHead.replace("@","")}
-      
-    Last update: ${getTime(timeNaw-timeFetch)}🕰️
-      
-    New update: ${getTime((timeFetch + timeToNewFetch)-timeNaw)}🕰️
-  ` 
+Tg head: 🔗<a href ="https://t.me/${tgUserNameHead.replace('@','')}">${tgUserNameHead.replace('@','')}</a>
+________________________
+Last update: ${getTime(timeNaw-timeFetch)}🕰️
+New update: ${getTime((timeFetch + timeToNewFetch)-timeNaw)}🕰️
+` 
   
   return text
 }

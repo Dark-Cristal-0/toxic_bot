@@ -1,0 +1,152 @@
+{
+    "tag": "#2U29V282Q",
+    "name": "Toxic Eclipse",
+    "description": "<cFF1493> Toxic Imperium</c>|Tg:@ToxicImp|<cFF1493>Tg:@ZETA48</c>|Invite:46k |",
+    "type": "inviteOnly",
+    "badgeId": 8000037,
+    "requiredTrophies": 35000,
+    "trophies": 629614,
+    "members": [
+      {
+        "tag": "#P9RJYLCRR",
+        "name": "❄🖤It's Tress🖤",
+        "nameColor": "0xff1ba5f5",
+        "role": "senior",
+        "trophies": 52115,
+        "icon": {
+          "id": 28000231
+        }
+      },
+      {
+        "tag": "#PRQ0VL880",
+        "name": "мистер.п",
+        "nameColor": "0xff1ba5f5",
+        "role": "senior",
+        "trophies": 49686,
+        "icon": {
+          "id": 28000382
+        }
+      },
+      {
+        "tag": "#2PLRPYUCQ",
+        "name": "GG | WinTee❄️",
+        "nameColor": "0xfff9c908",
+        "role": "senior",
+        "trophies": 47968,
+        "icon": {
+          "id": 28000385
+        }
+      },
+      {
+        "tag": "#L0PYUPRQ",
+        "name": "Maestro🧸",
+        "nameColor": "0xffffce89",
+        "role": "president",
+        "trophies": 47346,
+        "icon": {
+          "id": 28000071
+        }
+      },
+      {
+        "tag": "#8QY20GRVR",
+        "name": "Mr.IoPeReSeTe",
+        "nameColor": "0xffcb5aff",
+        "role": "member",
+        "trophies": 46875,
+        "icon": {
+          "id": 28000170
+        }
+      },
+      {
+        "tag": "#Q9LVJULR",
+        "name": "𝖒𝖆𝕶𝖘𝖚𝖙𝖆ツ",
+        "nameColor": "0xffcb5aff",
+        "role": "member",
+        "trophies": 45319,
+        "icon": {
+          "id": 28000044
+        }
+      },
+      {
+        "tag": "#22GQR08YV",
+        "name": "R1zel",
+        "nameColor": "0xffcb5aff",
+        "role": "member",
+        "trophies": 43885,
+        "icon": {
+          "id": 28000221
+        }
+      },
+      {
+        "tag": "#98P2GVJUC",
+        "name": "Goofy🥀",
+        "nameColor": "0xfff9c908",
+        "role": "member",
+        "trophies": 43654,
+        "icon": {
+          "id": 28000061
+        }
+      },
+      {
+        "tag": "#9998YVGPG",
+        "name": "егор",
+        "nameColor": "0xfff9c908",
+        "role": "member",
+        "trophies": 43230,
+        "icon": {
+          "id": 28000167
+        }
+      },
+      {
+        "tag": "#GP9PQV9C",
+        "name": "GG|Frozzy🌊",
+        "nameColor": "0xffffffff",
+        "role": "member",
+        "trophies": 42710,
+        "icon": {
+          "id": 28000382
+        }
+      },
+      {
+        "tag": "#292Q0Q2Q2",
+        "name": "UTS|Kristalik⛩️",
+        "nameColor": "0xffffce89",
+        "role": "member",
+        "trophies": 42159,
+        "icon": {
+          "id": 28000221
+        }
+      },
+      {
+        "tag": "#8Y88Q9QL9",
+        "name": "YT|CrA6iK™",
+        "nameColor": "0xfff9c908",
+        "role": "member",
+        "trophies": 42015,
+        "icon": {
+          "id": 28000341
+        }
+      },
+      {
+        "tag": "#8R08C98QG",
+        "name": "Artem oshk",
+        "nameColor": "0xff4ddba2",
+        "role": "member",
+        "trophies": 41625,
+        "icon": {
+          "id": 28000258
+        }
+      },
+      {
+        "tag": "#PQRUQ0Q08",
+        "name": "GG|XLin💘",
+        "nameColor": "0xffcb5aff",
+        "role": "member",
+        "trophies": 41027,
+        "icon": {
+          "id": 28000428
+        }
+      }
+    ],
+    "timeFetch": 1711204962140
+  }

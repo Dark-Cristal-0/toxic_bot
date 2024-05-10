@@ -13,7 +13,7 @@
       "addAdmin": true,
       "modifyAdmin": true,
       "fetchNaw": true,
-      "info":true,
+      "info": true,
       "js": true
     }
   },
@@ -31,7 +31,61 @@
       "addAdmin": true,
       "modifyAdmin": true,
       "fetchNaw": true,
-      "info":true,
+      "info": true,
+      "js": true
+    }
+  },
+  {
+    "id": 1051342037,
+    "name": "mode: eternal despair🩸",
+    "tgUserName": "@Roweouu",
+    "rights": {
+      "removeClub": false,
+      "addClub": false,
+      "modifyClub": false,
+      "fetchTime": false,
+      "adminList": false,
+      "removeAdmin": false,
+      "addAdmin": false,
+      "modifyAdmin": false,
+      "fetchNaw": true,
+      "info": false,
+      "js": false
+    }
+  },
+  {
+    "id": 1439966594,
+    "name": "👻",
+    "tgUserName": "@sai_ken",
+    "rights": {
+      "removeClub": false,
+      "addClub": false,
+      "modifyClub": false,
+      "fetchTime": false,
+      "adminList": false,
+      "removeAdmin": false,
+      "addAdmin": false,
+      "modifyAdmin": false,
+      "fetchNaw": true,
+      "info": false,
+      "js": false
+    }
+  },
+  {
+    "id": 839999442,
+    "name": "fulminant",
+    "tgUserName": "@fulminaant",
+    "rights": {
+      "removeClub": false,
+      "addClub": false,
+      "modifyClub": false,
+      "fetchTime": false,
+      "adminList": true,
+      "removeAdmin": false,
+      "addAdmin": false,
+      "modifyAdmin": false,
+      "fetchNaw": true,
+      "info": true,
       "js": true
     }
   }

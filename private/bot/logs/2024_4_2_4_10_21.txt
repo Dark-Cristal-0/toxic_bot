@@ -1,0 +1,1 @@
+{"code":"ETELEGRAM","message":"ETELEGRAM: 502 Bad Gateway"}

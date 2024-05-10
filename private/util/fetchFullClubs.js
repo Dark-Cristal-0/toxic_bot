@@ -6,10 +6,12 @@ const func = ()=>{
   for(let el of db.private.clubsInfo){
     const tag = el.tag
     const name = el.name
-    brawlStarsApi.getClub(tag,(data)=>{
-      data.timeFetch = new Date().getTime()
-      db.control.newPublicData(`club_${tag}.json`,JSON.stringify(data,null,2))
-      db.control.updatePublicData()
+    brawlStarsApi.getClub(tag,(data,error)=>{
+      if(!error){
+        data.timeFetch = new Date().getTime()
+        db.control.newPublicData(`club_${tag}.json`,JSON.stringify(data,null,2))
+        db.control.updatePublicData()
+      }
     })
   }
 }

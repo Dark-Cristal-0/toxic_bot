@@ -15,7 +15,7 @@
   "addClub":{
     "text":"Додає клуб до списку",
     "params":"<tag> <head> <name>",
-    "example":"/admin #2CUG9G9Y9 kiritoake Toxic Legion"
+    "example":"/admin addClub #2CUG9G9Y9 kiritoake Toxic Legion"
   },
   "removeClub":{
     "text":"Видаляє клуб з списку",
